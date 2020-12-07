@@ -1,4 +1,5 @@
-# Analyzing-the-Growth-of-Indian-Start-up
+# Analyzing the Growth of Indian Start-up
+Analyze the Indian Startups, and Understand the Startup Ecosystems in India to answer some Interesting Questions. Try to find out the Major Investors and Startups.
 
 # Transection 
 ![Year-Month of Transection](https://github.com/KamleshYadav875/Analyzing-the-Growth-of-Indian-Start-up/blob/master/imgs/Year-Month%20of%20Transection.png)
